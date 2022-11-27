@@ -57,7 +57,7 @@ body{
     color: #019DF4;
     font-size: 16px;
 }
-.loggin input[type="submit"]{
+/*.loggin input[type="submit"]{
     border: none;
     width: 260px;
     height: 50px;
@@ -68,5 +68,19 @@ body{
     margin-top: 25px;
     border-radius: 2px;
     
+}*/
+#btn{
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+    cursor: pointer;
+    display: block;
+    color: white;
+    background: #019DF4;
+    border-radius: 3px;
+    margin-top: 25px;
+    height: 35px;
+    width: 100%;
+
 }
 /*   */
